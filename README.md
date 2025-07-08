@@ -1,4 +1,4 @@
-# -tude-des-Performances-des-quipes-de-la-Ligue-1-Tunisienne
+# -Etude-des-Performances-des-quipes-de-la-Ligue-1-Tunisienne
 
 Ce projet permet de :
    -Mettre en œuvre une solution de web scraping pour collecter les données du classement
